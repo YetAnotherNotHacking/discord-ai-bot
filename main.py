@@ -195,4 +195,4 @@ async def image(ctx, *, prompt):
     await ctx.send(file=discord.File(f"/home/kalisu/discord_interface/images/{image_name}.png"))
 
 # Connect to the shard api and start the bot
-bot.run("MTE4NjcwOTE4NDUzNjkxNTk2OA.GAshzT.2XVxMM-gglwUYz-T1GqaTf4Ad4SDBvWwZHAlWY")
+bot.run("token")
